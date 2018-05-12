@@ -1,10 +1,16 @@
 _repo: Josef-Dietzgens-philosophische-Lehren_50574
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50574-h/images/cover.jpg
 creator:
   author:
     agent_name: Hepner, Adolf
     gutenberg_agent_id: '45983'
     url: http://www.gutenberg.org/2009/agents/45983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50574#Josef-Dietzgens-philosophische-Lehren
 gutenberg_issued: '2015-11-29'
 gutenberg_type: Text
 identifiers:
